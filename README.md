@@ -8,7 +8,7 @@ Infineon's Sensor Hub Android app can be used to connect to the EVK and display 
 
 [View this README on GitHub.](https://github.com/Infineon/mtb-example-btstack-freertos-cyw20829-magnetometer-bmm350)
 
-[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyNDA1MDEiLCJTcGVjIE51bWJlciI6IjAwMi00MDUwMSIsIkRvYyBUaXRsZSI6IkJsdWV0b290aCZyZWc7IExFIEJNTTM1MCBzZW5zaW5nIHNlcnZpY2UiLCJyaWQiOiJsbGFuZXNwYXRyaWMiLCJEb2MgdmVyc2lvbiI6IjEuMC4wIiwiRG9jIExhbmd1YWdlIjoiRW5nbGlzaCIsIkRvYyBEaXZpc2lvbiI6Ik1DRCIsIkRvYyBCVSI6IklDVyIsIkRvYyBGYW1pbHkiOiJCVEFCTEUifQ==)
+[Provide feedback on this code example.](https://yourvoice.infineon.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyNDA1MDEiLCJTcGVjIE51bWJlciI6IjAwMi00MDUwMSIsIkRvYyBUaXRsZSI6IkJsdWV0b290aCZyZWc7IExFIEJNTTM1MCBzZW5zaW5nIHNlcnZpY2UiLCJyaWQiOiJwYXRyaWNrLWRhbmllbC5sbGFuZXNAaW5maW5lb24uY29tIiwiRG9jIHZlcnNpb24iOiIyLjAuMCIsIkRvYyBMYW5ndWFnZSI6IkVuZ2xpc2giLCJEb2MgRGl2aXNpb24iOiJNQ0QiLCJEb2MgQlUiOiJJQ1ciLCJEb2MgRmFtaWx5IjoiQlRBQkxFIn0=)
 
 
 ## Requirements
@@ -16,7 +16,7 @@ Infineon's Sensor Hub Android app can be used to connect to the EVK and display 
 - [ModusToolbox&trade;](https://www.infineon.com/modustoolbox) v3.2 or later (tested with v3.2)
 - Programming language: C
 - Board support package (BSP) minimum required version for:
-   - CYW920829M2EVK-02: v2.0.0
+   - CYW920829M2EVK-02: v3.0.0
 - Associated parts: [AIROC&trade; CYW20829 Bluetooth&reg; LE SoC](https://www.infineon.com/cms/en/product/promopages/airoc20829)
 
 
@@ -419,6 +419,7 @@ Document title: *CE240501* – *Bluetooth&reg; LE BMM350 sensing service*
  Version | Description of change
  ------- | ---------------------
  1.0.0   | New code example
+ 2.0.0   | Updated design.modus to support B1 variant of CYW20829
 <br>
 
 
